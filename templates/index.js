@@ -1,5 +1,5 @@
-import {Home} from "./Home";
-import {Search} from "./Search";
-import {Profile} from "./Profile";
-import {ProductDetails} from "./ProductDetails";
-export { Home, Search, Profile,ProductDetails}
+import Home from "./Home/Home";
+import Search from "./Search/Search";
+import Profile from "./Profile/Profile";
+import ProductDetails from "./ProductDetails/ProductDetails";
+export {Home, ProductDetails,Profile,Search}

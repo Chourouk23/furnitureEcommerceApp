@@ -6,7 +6,7 @@ const styles = StyleSheet.create({
     backgroundColor: COLORS.secondary,
     width: 182,
     height: 240,
-    marginHorizontal: 6,
+    marginEnd: 6,
     borderRadius: 15,
   },
   imageContainer: {
